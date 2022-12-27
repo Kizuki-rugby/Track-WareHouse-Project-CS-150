@@ -1,0 +1,3 @@
+9 #ofWarehouse
+20 #ofTruck
+40 #ofShipment
